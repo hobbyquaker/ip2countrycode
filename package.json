@@ -1,0 +1,27 @@
+{
+  "name": "ip2countrycode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobbyquaker/ip2countrycode.git"
+  },
+  "keywords": [
+    "ip",
+    "country",
+    "code",
+    "geo",
+    "location",
+    "lookup"
+  ],
+  "author": "Sebastian Raff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobbyquaker/ip2countrycode/issues"
+  },
+  "homepage": "https://github.com/hobbyquaker/ip2countrycode#readme"
+}
